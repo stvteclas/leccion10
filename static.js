@@ -1,0 +1,3 @@
+static saludar(){
+    console.log 
+}
